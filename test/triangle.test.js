@@ -51,6 +51,7 @@ Anropet console.log(shape.createRightTriangle(10)); ska ge triangeln
         expect(result).toBe('#\n##\n###\n####\n#####\n')
     })
 
+
     //todo  more tests!
 
  })
